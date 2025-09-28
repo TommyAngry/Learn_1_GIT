@@ -10,3 +10,8 @@ def hahah():
     print("MyName")
 def hey():
     print("Серега")
+
+def low():
+    print("jijij")
+
+print("fkjqpjqf")
